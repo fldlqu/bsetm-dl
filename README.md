@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-> **⚠️ 本仓库已迁移至 Codeberg**  
+> **本仓库已迁移至 Codeberg**  
 > GitHub 上的此仓库仅为只读镜像。请前往 [Codeberg 主仓库](https://codeberg.org/flandre_scarlet/bsetm-dl) 提交 Issue、PR 或获取最新版本。
 
 CLI 工具，可从[国家中小学智慧教育平台](https://basic.smartedu.cn/)获取电子课本 PDF 下载链接并下载。
@@ -15,12 +15,12 @@ CLI 工具，可从[国家中小学智慧教育平台](https://basic.smartedu.cn
 
 本项目的开发与维护已迁移至 **Codeberg**：[https://codeberg.org/flandre_scarlet/bsetm-dl](https://codeberg.org/flandre_scarlet/bsetm-dl)
 
-- 📦 **主仓库（含最新代码）**: [Codeberg →](https://codeberg.org/flandre_scarlet/bsetm-dl)
-- 🐛 **提交 Issue**: [Codeberg Issues →](https://codeberg.org/flandre_scarlet/bsetm-dl/issues)
-- 🔀 **提交 PR**: [Codeberg Pull Requests →](https://codeberg.org/flandre_scarlet/bsetm-dl/pulls)
-- ⭐ **Star / Watch**: 请在 Codeberg 关注本项目
+- **主仓库（含最新代码）**: [Codeberg →](https://codeberg.org/flandre_scarlet/bsetm-dl)
+- **提交 Issue**: [Codeberg Issues →](https://codeberg.org/flandre_scarlet/bsetm-dl/issues)
+- **提交 PR**: [Codeberg Pull Requests →](https://codeberg.org/flandre_scarlet/bsetm-dl/pulls)
+- **Star / Watch**: 请在 Codeberg 关注本项目
 
-> GitHub 仓库的 Issue、PR、Wiki 和 Discussions 均已关闭，不再维护。
+> GitHub 仓库的 Issues、PRs、Wiki 和 Discussions 均已关闭，不再维护。
 
 ## 安装
 
